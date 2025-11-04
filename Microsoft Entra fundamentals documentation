@@ -1,0 +1,13 @@
+Learn about Microsoft Entra concepts and processes, such as creating a basic environment,
+adding users, applying licenses, and managing groups.
+
+It's a critical security framework that encompasses the policies, processes, and technologies used to manage digital identities and control user access to resources within an organization.
+
+Topics: 
+-About Microsoft Entra
+-Users and groups
+Licensing
+-Security best practices for Microsoft Entra
+
+
+Here is the link for complete details about IAM. ghttps://learn.microsoft.com/en-us/entra/fundamentals/identity-fundamental-concepts
